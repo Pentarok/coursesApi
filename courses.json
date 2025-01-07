@@ -23,7 +23,7 @@
           "course": "Tourism and Travel Management",
           "level": "Level 6",
           "examining_body": "TVET CDACC",
-          "photos": ["tourism1.jpg", "tourism2.jpg"],
+          "photos": ["https://github.com/Pentarok/coursesApi/blob/main/college3.jpg?raw=true", "tourism2.jpg"],
           "sub_courses": [
             { "id": 6, "name": "Travel Agency Operations", "duration": "2 months" },
             { "id": 7, "name": "Hospitality Essentials", "duration": "3 months" },
@@ -37,7 +37,7 @@
           "course": "Diploma in Tourism Management",
           "level": "Diploma",
           "examining_body": "KNEC",
-          "photos": ["diploma_tourism1.jpg"],
+        
           "sub_courses": [
             { "id": 11, "name": "Event Planning", "duration": "2 months" },
             { "id": 12, "name": "Travel Logistics", "duration": "4 months" },
