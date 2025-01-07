@@ -51,7 +51,7 @@
           "course": "Wildlife Management",
           "level": "Level 5",
           "examining_body": "TVET CDACC",
-          "photos": ["wildlife5.jpg"],
+        
           "sub_courses": [
             { "id": 16, "name": "Community-Based Conservation", "duration": "3 months" },
             { "id": 17, "name": "Wildlife Rehabilitation", "duration": "2 months" },
@@ -65,7 +65,7 @@
           "course": "Certificate in Tour Guiding & Travel Operations",
           "level": "Certificate",
           "examining_body": "KNEC",
-          "photos": ["tour_guide.jpg"],
+         
           "sub_courses": [
             { "id": 21, "name": "Tour Guide Skills", "duration": "1 month" },
             { "id": 22, "name": "Tourism Geography", "duration": "2 months" },
