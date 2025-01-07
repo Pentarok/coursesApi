@@ -23,7 +23,7 @@
           "course": "Tourism and Travel Management",
           "level": "Level 6",
           "examining_body": "TVET CDACC",
-          "photos": ["https://github.com/Pentarok/coursesApi/blob/main/college3.jpg?raw=true", "tourism2.jpg"],
+          "photos": ["https://github.com/Pentarok/coursesApi/blob/main/college3.jpg?raw=true", "https://github.com/Pentarok/coursesApi/blob/main/college4.jpg?raw=true"],
           "sub_courses": [
             { "id": 6, "name": "Travel Agency Operations", "duration": "2 months" },
             { "id": 7, "name": "Hospitality Essentials", "duration": "3 months" },
