@@ -1,155 +1,31 @@
 {
   "schools": {
     "1": {
-      "name": "Tourism, Tours & Travel",
-       "photos": ["https://raw.githubusercontent.com/Pentarok/coursesApi/refs/heads/main/college.jpg", "https://github.com/Pentarok/coursesApi/blob/main/colllege1.jpg?raw=true"],
+      "name": "Wildlife and Tourism College",
+      "photos": [
+        "https://github.com/Pentarok/coursesApi/blob/main/college1.jpg?raw=true",
+        "https://github.com/Pentarok/coursesApi/blob/main/college2.jpg?raw=true"
+      ],
       "courses": [
-        {
-          "id": 1,
-          "course": "Wildlife Management",
-          "level": "Level 6",
-          "examining_body": "TVET CDACC",
-         
-          "sub_courses": [
-            { "id": 1, "name": "Wildlife Conservation", "duration": "3 months", "description": "Focus on preserving wildlife habitats." },
-            { "id": 2, "name": "Wildlife Policy and Planning", "duration": "2 months" },
-            { "id": 3, "name": "Animal Tracking and Monitoring", "duration": "4 months" },
-            { "id": 4, "name": "Eco-Tourism Management", "duration": "3 months", "description": "Learn sustainable tourism practices." },
-            { "id": 5, "name": "Wildlife Law and Ethics", "duration": "2 months" }
-          ]
-        },
-        {
-          "id": 2,
-          "course": "Tourism and Travel Management",
-          "level": "Level 6",
-          "examining_body": "TVET CDACC",
-          "photos": ["https://github.com/Pentarok/coursesApi/blob/main/college3.jpg?raw=true", "https://github.com/Pentarok/coursesApi/blob/main/college4.jpg?raw=true"],
-          "sub_courses": [
-            { "id": 6, "name": "Travel Agency Operations", "duration": "2 months" },
-            { "id": 7, "name": "Hospitality Essentials", "duration": "3 months" },
-            { "id": 8, "name": "Destination Marketing", "duration": "4 months" },
-            { "id": 9, "name": "Itinerary Planning", "duration": "2 months" },
-            { "id": 10, "name": "Cultural Tourism", "duration": "3 months" }
-          ]
-        },
-        {
-          "id": 3,
-          "course": "Diploma in Tourism Management",
-          "level": "Diploma",
-          "examining_body": "KNEC",
-        
-          "sub_courses": [
-            { "id": 11, "name": "Event Planning", "duration": "2 months" },
-            { "id": 12, "name": "Travel Logistics", "duration": "4 months" },
-            { "id": 13, "name": "Hospitality Management", "duration": "3 months" },
-            { "id": 14, "name": "Global Tourism Trends", "duration": "2 months" },
-            { "id": 15, "name": "Tour Guiding Principles", "duration": "1 month" }
-          ]
-        },
-        {
-          "id": 4,
-          "course": "Wildlife Management",
-          "level": "Level 5",
-          "examining_body": "TVET CDACC",
-        
-          "sub_courses": [
-            { "id": 16, "name": "Community-Based Conservation", "duration": "3 months" },
-            { "id": 17, "name": "Wildlife Rehabilitation", "duration": "2 months" },
-            { "id": 18, "name": "Endangered Species Management", "duration": "4 months" },
-            { "id": 19, "name": "Habitat Restoration", "duration": "3 months" },
-            { "id": 20, "name": "Human-Wildlife Conflict Management", "duration": "2 months" }
-          ]
-        },
-        {
-          "id": 5,
-          "course": "Certificate in Tour Guiding & Travel Operations",
-          "level": "Certificate",
-          "examining_body": "KNEC",
-         
-          "sub_courses": [
-            { "id": 21, "name": "Tour Guide Skills", "duration": "1 month" },
-            { "id": 22, "name": "Tourism Geography", "duration": "2 months" },
-            { "id": 23, "name": "Customer Service for Tour Guides", "duration": "1.5 months" },
-            { "id": 24, "name": "Ecotourism Operations", "duration": "2 months" },
-            { "id": 25, "name": "Travel Operations Software", "duration": "1 month" }
-          ]
-        }
+        { "id": 1, "name": "Diploma in Wildlife Conservation", "duration": "2 years", "level": "Diploma", "examining_body": "KNEC" },
+        { "id": 2, "name": "Wildlife Policy and Planning", "duration": "2 months", "level": "Certificate", "examining_body": "KNEC" },
+        { "id": 3, "name": "Animal Tracking and Monitoring", "duration": "4 months", "level": "Certificate", "examining_body": "KNEC" },
+        { "id": 4, "name": "Eco-Tourism Management", "duration": "3 months", "level": "Certificate", "examining_body": "KNEC", "description": "Learn sustainable tourism practices." },
+        { "id": 5, "name": "Wildlife Law and Ethics", "duration": "2 months", "level": "Certificate", "examining_body": "KNEC" }
       ]
     },
     "2": {
       "name": "Journalism & Media Studies",
-      "photos": ["journalism1.jpg"],
+      "photos": [
+        "https://github.com/Pentarok/coursesApi/blob/main/journalism1.jpg?raw=true"
+      ],
       "courses": [
-        {
-          "id": 6,
-          "course": "Diploma in Journalism & Media Studies",
-          "level": "Diploma",
-          "examining_body": "ICM",
-      
-          "sub_courses": [
-            { "id": 26, "name": "News Reporting", "duration": "3 months" },
-            { "id": 27, "name": "Media Ethics", "duration": "2 months" },
-            { "id": 28, "name": "Feature Writing", "duration": "3 months" },
-            { "id": 29, "name": "Investigative Journalism", "duration": "4 months" },
-            { "id": 30, "name": "Media Law", "duration": "2 months" }
-          ]
-        },
-        {
-          "id": 7,
-          "course": "Broadcast Journalism",
-          "level": "Level 6",
-          "examining_body": "TVET CDACC",
-          
-          "sub_courses": [
-            { "id": 31, "name": "Video Editing Basics", "duration": "3 months" },
-            { "id": 32, "name": "Audio Production", "duration": "2 months" },
-            { "id": 33, "name": "Camera Operations", "duration": "3 months" },
-            { "id": 34, "name": "Field Reporting", "duration": "4 months" },
-            { "id": 35, "name": "Live Broadcasting Techniques", "duration": "3 months" }
-          ]
-        },
-        {
-          "id": 8,
-          "course": "Digital Journalism",
-          "level": "Level 6",
-          "examining_body": "TVET CDACC",
-         
-          "sub_courses": [
-            { "id": 36, "name": "SEO Writing", "duration": "2 months" },
-            { "id": 37, "name": "Social Media Management", "duration": "3 months" },
-            { "id": 38, "name": "Content Strategy", "duration": "3 months" },
-            { "id": 39, "name": "Podcast Production", "duration": "2 months" },
-            { "id": 40, "name": "Data Journalism", "duration": "3 months" }
-          ]
-        },
-        {
-          "id": 9,
-          "course": "Print Journalism",
-          "level": "Level 6",
-          "examining_body": "TVET CDACC",
-          
-          "sub_courses": [
-            { "id": 41, "name": "Layout and Design", "duration": "2 months" },
-            { "id": 42, "name": "Copy Editing", "duration": "3 months" },
-            { "id": 43, "name": "Editorial Writing", "duration": "3 months" },
-            { "id": 44, "name": "Publication Management", "duration": "4 months" },
-            { "id": 45, "name": "Investigative Writing", "duration": "2 months" }
-          ]
-        },
-        {
-          "id": 10,
-          "course": "Diploma in Training of Trainers (TOT)",
-          "level": "Diploma",
-          "examining_body": "JCT",
-         
-          "sub_courses": [
-            { "id": 46, "name": "Facilitation Skills", "duration": "2 months" },
-            { "id": 47, "name": "Curriculum Design", "duration": "3 months" },
-            { "id": 48, "name": "Teaching Methods", "duration": "3 months" },
-            { "id": 49, "name": "Assessment Strategies", "duration": "2 months" },
-            { "id": 50, "name": "E-Learning Development", "duration": "3 months" }
-          ]
-        }
+        { "id": 6, "name": "Diploma in Journalism & Media Studies", "duration": "3 years", "level": "Diploma", "examining_body": "ICM" },
+        { "id": 7, "name": "News Reporting", "duration": "3 months", "level": "Certificate", "examining_body": "ICM" },
+        { "id": 8, "name": "Media Ethics", "duration": "2 months", "level": "Certificate", "examining_body": "ICM" },
+        { "id": 9, "name": "Feature Writing", "duration": "3 months", "level": "Certificate", "examining_body": "ICM" },
+        { "id": 10, "name": "Investigative Journalism", "duration": "4 months", "level": "Certificate", "examining_body": "ICM" },
+        { "id": 11, "name": "Media Law", "duration": "2 months", "level": "Certificate", "examining_body": "ICM" }
       ]
     }
   }
