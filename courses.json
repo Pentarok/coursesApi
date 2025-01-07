@@ -3,8 +3,8 @@
     "1": {
       "name": "Wildlife and Tourism College",
       "photos": [
-        "https://github.com/Pentarok/coursesApi/blob/main/college1.jpg?raw=true",
-        "https://github.com/Pentarok/coursesApi/blob/main/college2.jpg?raw=true"
+        "https://github.com/Pentarok/coursesApi/blob/main/college.jpg?raw=true",
+        "https://github.com/Pentarok/coursesApi/blob/main/college3.jpg?raw=true"
       ],
       "courses": [
         { "id": 1, "name": "Diploma in Wildlife Conservation", "duration": "2 years", "level": "Diploma", "examining_body": "KNEC" },
@@ -17,7 +17,8 @@
     "2": {
       "name": "Journalism & Media Studies",
       "photos": [
-        "https://github.com/Pentarok/coursesApi/blob/main/journalism1.jpg?raw=true"
+        "https://github.com/Pentarok/coursesApi/blob/main/college4.jpg?raw=true",
+        "https://github.com/Pentarok/coursesApi/blob/main/colllege1.jpg?raw=true"
       ],
       "courses": [
         { "id": 6, "name": "Diploma in Journalism & Media Studies", "duration": "3 years", "level": "Diploma", "examining_body": "ICM" },
