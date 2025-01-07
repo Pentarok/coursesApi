@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "University Launches New Computer Science Lab",
+      "photo": "https://example.com/images/computer-science-lab.jpg",
+      "content": "The university has unveiled a state-of-the-art computer science lab to enhance students' learning experience and support innovative research. The lab is equipped with the latest hardware and software to support advanced fields like Artificial Intelligence, Machine Learning, and Data Science. During the launch event, the Vice Chancellor emphasized the university's commitment to providing cutting-edge resources for its students. This initiative aligns with the institution's vision to be a leader in technological education in the region."
+    },
+    {
+      "id": 2,
+      "title": "Annual Cultural Day Celebration Announced",
+      "photo": "https://example.com/images/cultural-day.jpg",
+      "content": "The university is set to host its Annual Cultural Day on January 20, 2025, at the Main Campus Grounds. The event aims to celebrate diversity, unity, and talent within the university community. Students from different cultural backgrounds will showcase their traditions through dance, music, food, and art. The organizing committee has also planned engaging activities such as traditional games and a fashion show. All students and staff are encouraged to participate and make the event memorable."
+    }
+  ]
+}
