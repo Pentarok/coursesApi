@@ -2,13 +2,14 @@
   "schools": {
     "1": {
       "name": "Tourism, Tours & Travel",
+       "photos": ["wildlife1.jpg", "wildlife2.jpg"],
       "courses": [
         {
           "id": 1,
           "course": "Wildlife Management",
           "level": "Level 6",
           "examining_body": "TVET CDACC",
-          "photos": ["wildlife1.jpg", "wildlife2.jpg"],
+         
           "sub_courses": [
             { "id": 1, "name": "Wildlife Conservation", "duration": "3 months", "description": "Focus on preserving wildlife habitats." },
             { "id": 2, "name": "Wildlife Policy and Planning", "duration": "2 months" },
@@ -77,13 +78,14 @@
     },
     "2": {
       "name": "Journalism & Media Studies",
+      "photos": ["journalism1.jpg"],
       "courses": [
         {
           "id": 6,
           "course": "Diploma in Journalism & Media Studies",
           "level": "Diploma",
           "examining_body": "ICM",
-          "photos": ["journalism1.jpg"],
+      
           "sub_courses": [
             { "id": 26, "name": "News Reporting", "duration": "3 months" },
             { "id": 27, "name": "Media Ethics", "duration": "2 months" },
@@ -97,7 +99,7 @@
           "course": "Broadcast Journalism",
           "level": "Level 6",
           "examining_body": "TVET CDACC",
-          "photos": ["broadcast1.jpg"],
+          
           "sub_courses": [
             { "id": 31, "name": "Video Editing Basics", "duration": "3 months" },
             { "id": 32, "name": "Audio Production", "duration": "2 months" },
@@ -111,7 +113,7 @@
           "course": "Digital Journalism",
           "level": "Level 6",
           "examining_body": "TVET CDACC",
-          "photos": ["digital1.jpg"],
+         
           "sub_courses": [
             { "id": 36, "name": "SEO Writing", "duration": "2 months" },
             { "id": 37, "name": "Social Media Management", "duration": "3 months" },
@@ -125,7 +127,7 @@
           "course": "Print Journalism",
           "level": "Level 6",
           "examining_body": "TVET CDACC",
-          "photos": ["print1.jpg"],
+          
           "sub_courses": [
             { "id": 41, "name": "Layout and Design", "duration": "2 months" },
             { "id": 42, "name": "Copy Editing", "duration": "3 months" },
@@ -139,7 +141,7 @@
           "course": "Diploma in Training of Trainers (TOT)",
           "level": "Diploma",
           "examining_body": "JCT",
-          "photos": ["trainer.jpg"],
+         
           "sub_courses": [
             { "id": 46, "name": "Facilitation Skills", "duration": "2 months" },
             { "id": 47, "name": "Curriculum Design", "duration": "3 months" },
