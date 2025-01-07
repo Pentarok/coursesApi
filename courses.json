@@ -2,7 +2,7 @@
   "schools": {
     "1": {
       "name": "Tourism, Tours & Travel",
-       "photos": ["wildlife1.jpg", "wildlife2.jpg"],
+       "photos": ["https://raw.githubusercontent.com/Pentarok/coursesApi/refs/heads/main/college.jpg", "wildlife2.jpg"],
       "courses": [
         {
           "id": 1,
